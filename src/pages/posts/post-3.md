@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 
 title: 我的第三篇博客文章
 author: Astro 学习者
